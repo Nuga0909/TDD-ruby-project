@@ -65,7 +65,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd your-folder
-  git@github.com:shegy28/TDD-project.git
+  github.com/Nuga0909/TDD-ruby-project
 ```
 
 ### Install
@@ -87,25 +87,25 @@ Install this project with:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Chimezie Asouzu**
+👤 **Eric Mawudeku**
 
-- GitHub: [@Shegy28](https://github.com/shegy28)
-- Twitter: [@Shegy28](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chimezie-asouzu-67704224a/)
+- GitHub: [@erickma1](https://github.com/erickma1)
 
-👤 **Wilson Kimiri**
+👤 **Adeshina Adenuga**
 
-- GitHub: [@githubhandle](https://github.com/willy836)
-- Twitter: [@twitterhandle](https://twitter.com/Kimiri836)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/wilson-kimiri/)
+- GitHub: [@Nuga0909](https://github.com/Nuga0909)
+- twitter: [@nuga09099](https://twitter.com/nuga09099)
+
+👤 **Khuraijam Henary Singh**
+
+- GitHub: [@HenaryKhuraijam](https://github.com/HenaryKhuraijam)
+- twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Method to solve fibonacci sequence]**
 - [ ] **[Method to solve basic sets and hashes problems]**
@@ -119,7 +119,7 @@ Install this project with:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/shegy28/TDD-project/issues).
+Feel free to check the [issues page](https://github.com/Nuga0909/TDD-ruby-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
